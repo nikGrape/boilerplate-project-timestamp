@@ -1,5 +1,6 @@
 {
 	"name": "fcc-api-projects-boilerplate",
+	"author": "Nikolai Vinogradov",
 	"version": "0.0.1",
 	"description": "An FCC Backend Challenge",
 	"main": "server.js",
@@ -14,11 +15,15 @@
 		"type": "git",
 		"url": "https://githost.com/camper/repo.git"
 	},
+	"engines": {
+		"node": "17.2.0"
+	},
 	"keywords": [
 		"node",
 		"hyperdev",
 		"express",
-		"freecodecamp"
+		"freecodecamp",
+		"heroku"
 	],
 	"license": "MIT"
 }
